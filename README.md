@@ -1,7 +1,6 @@
 # Introduction
 
-This is the documentation for the Coding Test sent as part of my application
-for the position of Senior Software Developer.
+This is the documentation for the Coding Test.
 
 During the last week I took it upon myself to learn web development,
 specifically, using Test Driven Methodology using resources available to me: the book "Test Driven Development with Python" by H. J. W. Percival and the official Django Tutorials (https://docs.djangoproject.com/en/1.11/).
